@@ -1,4 +1,4 @@
-![Snap-to-Ship Banner](snap-to-ship-banner.png)
+![Snap-to-Ship Banner](img/snap-to-ship-banner.png)
 
 ## Install
 Copy this skill into any repo:
