@@ -1,0 +1,9 @@
+interface:
+  display_name: "Snap-to-Ship"
+  short_description: "Screenshot → runnable Next.js app (Tailwind + shadcn/ui)"
+  brand_color: "#111827"
+  default_prompt: |
+    Build me a working Next.js app from the attached screenshot.
+    Mode: prototype
+policy:
+  allow_implicit_invocation: false
