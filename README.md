@@ -3,7 +3,7 @@
 ## Install
 Copy this skill into any repo:
 
-.agents/skills/snap-to-ship/
+snap-to-ship/.agents/skills/snap-to-ship/
 
 Or clone this repo and copy the .agents folder.
 
