@@ -1,5 +1,4 @@
-# Snap-to-Ship 🚀
-Turn screenshots into working apps using Codex.
+![Snap-to-Ship Banner](snap-to-ship-banner.png)
 
 ## Install
 Copy this skill into any repo:
